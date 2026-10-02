@@ -1,0 +1,105 @@
+POMONA WATER & ICE — OWNER ACQUISITION / SALES PLAN
+
+1. BEST WAY TO APPROACH THE OWNER
+This is a physical local business, so the strongest play is in-person, not a cold email.
+
+Go in during a slow period, buy something small, and ask if the owner is around. Do not lead with “I sell websites.” Lead with the fact that you already built something.
+
+Opening:
+“Hey, I’m local and I’m learning/building websites for small businesses around Pomona. I came across your store and made a quick demo using your current business info and photos. It’s already built — I just wanted to show you what your store could look like online.”
+
+Then show the site on your phone/laptop.
+
+2. WHAT TO SELL
+Do NOT pitch a website as decoration. Pitch the business result:
+- Customers can instantly see hours, address, services, and phone number.
+- One tap for directions.
+- Better trust when people search the store.
+- Looks more established than only a Google listing.
+- Easy to update later with prices, promotions, refill specials, holiday hours, etc.
+
+3. PRICE
+For this specific type of small local business, start simple.
+
+Recommended:
+- $300–$450 one-time for the website
+- $50–$100 extra if you handle domain connection / deployment / Google Business Profile linking
+- Optional $25–$50/month maintenance for small edits, hours changes, promo banners, photo swaps, etc.
+
+Good first-client offer:
+$350 flat, including:
+- Custom one-page website
+- Mobile responsive design
+- Call and directions buttons
+- Their real photos / business info
+- Domain hookup
+- Publishing / launch help
+- 30 days of small edits
+
+If they push back:
+Offer $250–$300 for the site only, and let them keep using a free GitHub Pages URL until they decide to buy a domain.
+
+4. PITCH SCRIPT AFTER SHOWING THE DEMO
+“I kept it really simple because people looking up a water store usually just want to know what you sell, when you’re open, where you are, and how to get here. I made those the main things on the page. If you like this direction, I can finish it with whatever wording or photos you want and put it live under your own domain.”
+
+If they ask cost:
+“For something like this, I’d charge about $350 total, including putting it live and connecting the domain. After that, you own the site. If you ever want me to keep updating it, we can do that separately, but you don’t have to pay a monthly fee just for the site to exist.”
+
+5. HOW TO CLOSE
+Avoid asking “Do you want a website?”
+Ask:
+“Would something like this be useful for the store if I finished it and got it live?”
+
+Then:
+“If you want, I can keep this exact layout, make any changes you want, and have it under your business name/domain. I’d just need the photos/info you want included.”
+
+6. LAUNCH PROCESS AFTER THEY SAY YES
+Step 1: Collect final info
+- Business name exactly as they want it shown
+- Phone
+- Address
+- Hours
+- Services
+- Prices if they want them listed
+- Logo / best photos
+- Any promotions
+
+Step 2: Collect payment terms
+Suggested: 50% upfront, 50% on launch.
+For a $350 site: $175 to start, $175 when approved/live.
+
+Step 3: Finish edits
+Send them a preview URL. Keep revision scope simple: 1–2 rounds of reasonable text/photo/layout edits.
+
+Step 4: Domain
+Best professional setup:
+- Owner buys the domain in THEIR own account/name.
+- You help connect DNS to the hosting.
+- Do not permanently own their domain for them.
+
+Step 5: Hosting
+For a static site like this, GitHub Pages or Cloudflare Pages can keep hosting costs extremely low/free.
+If using GitHub Pages, connect the custom domain in repository Settings > Pages, then update DNS at the registrar.
+
+Step 6: Final checks
+- Mobile view
+- Phone link
+- Directions link
+- Hours
+- Address
+- HTTPS
+- Google Business Profile website link
+
+Step 7: Final payment + handoff
+Once approved and live, collect final payment. Give the owner:
+- Domain login ownership
+- Link to live website
+- Copy/ZIP of files if promised
+- Your contact info for future edits
+
+7. MONTHLY RETAINER
+Do not force one on a water store with a mostly static website.
+Better offer:
+“Site is yours after the build. If you want me to handle updates, promos, holiday hours, or photo changes, I can do $35/month, otherwise just message me whenever you need something.”
+
+That makes the maintenance offer feel optional instead of like a subscription trap.
